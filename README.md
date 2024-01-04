@@ -1,1 +1,2 @@
-# stunning-octo-disco
+# codsoft task 1
+Opening Page Using HTML & CSS
